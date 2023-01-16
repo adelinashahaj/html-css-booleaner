@@ -38,4 +38,23 @@ table {
     background-color: #1E90FF;
     color: white;
   }
-  
+  h4{
+    margin: 0px;
+  background-image: url(../img/monitor.jpg);
+  color: #FFFFFF;
+  font-size: 140%;
+  line-height: 50px;
+  text-align: center;
+  width: 270px;
+  height: 210px;
+  }
+  h3{
+    margin: 0px;
+    background-image: url(../img/graph.jpg);
+    color: #FFFFFF;
+    font-size: 135%;
+    line-height: 50px;
+    text-align: center;
+    width: 270px;
+    height: 210px;
+  }
