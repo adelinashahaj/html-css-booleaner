@@ -10,8 +10,15 @@ header{
     height: 100px;
     background-color: #1E90FF;
 }
+.bool{
+    
+     color: #87CEFA;
+}
 .photo-jhon{
     margin-top: 0px;
+}
+#evidenziare {
+    background-color: yellow;
 }
 table {
     border-collapse: collapse;
