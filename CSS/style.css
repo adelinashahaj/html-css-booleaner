@@ -38,7 +38,7 @@ table {
     background-color: #1E90FF;
     color: white;
   }
-  h4{
+  .foto-footer1{
     margin: 0px;
   background-image: url(../img/monitor.jpg);
   color: #FFFFFF;
@@ -48,7 +48,7 @@ table {
   width: 270px;
   height: 210px;
   }
-  h3{
+  .foto-footer2{
     margin: 0px;
     background-image: url(../img/graph.jpg);
     color: #FFFFFF;
@@ -57,4 +57,7 @@ table {
     text-align: center;
     width: 270px;
     height: 210px;
+  }
+  h3{
+    color: grey;
   }
